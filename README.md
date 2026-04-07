@@ -1,4 +1,4 @@
-# Water Quality Forecasting using LSTM
+# Water Quality Forecasting using LSTM (Dissolved Oxygen Prediction)
 
 This project applies a Long Short-Term Memory (LSTM) neural network to forecast water quality time-series data, with a focus on predicting Dissolved Oxygen (DO).
 
